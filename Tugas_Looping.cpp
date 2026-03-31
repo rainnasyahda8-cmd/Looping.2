@@ -11,3 +11,7 @@ int pilihan = 0;
 // FUNCTION PENGECEKAN
 // =============================================
 
+//Function untuk mengecek bilangan prima menggunakan while loop
+bool isPrima(int n){
+    if 
+}
