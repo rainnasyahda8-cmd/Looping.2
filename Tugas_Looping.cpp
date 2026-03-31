@@ -33,7 +33,9 @@ bool isFibonacci(int n){
 
     int a = 0,b = 1,c;
     while(true){
-        c=
+        c = a + b;
+        if(c == n) return true;
+        
     }
 
 }
